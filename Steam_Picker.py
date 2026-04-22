@@ -3,7 +3,7 @@ import webbrowser
 
 window = customtkinter.CTk()
 window.geometry('600x200')
-window.title('Steam Image Installer')
+window.title('Steam Picker')
 window.fg_color='#202326'
 
 def background():
